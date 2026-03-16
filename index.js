@@ -858,8 +858,8 @@ function themeChanger() {
       addEntryImage.src = "svgs/addNoteDark.svg";
       localStorage.setItem("addEntryImage", "svgs/addNoteDark.svg");
       searchbutton.src = "svgs/searchDark.svg";
-      localStorage.setItem("searchbutton", "imagessvgssearchDark.svg");
-      theme.src = "images/lightMode.svg";
+      localStorage.setItem("searchbutton", "svgs/searchDark.svg");
+      theme.src = "svgs/lightMode.svg";
       localStorage.setItem("theme", "svgs/lightMode.svg");
       menu.src = "svgs/menuDark.svg";
       localStorage.setItem("menu", "svgs/menuDark.svg");
