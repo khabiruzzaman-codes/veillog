@@ -69,7 +69,7 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: sans-serif;
-  transition: all 0.2s ease-in;
+  transition: background 0.2s ease-in, color 0.2s ease-in;
 }
 
 header {
@@ -97,7 +97,7 @@ nav ul {
   align-items: center;
   justify-content: space-between;
   list-style-type: none;
-  padding: 0 2rem 0 12rem;
+  padding: 0 2rem ;
 }
 
 nav ul li {}
